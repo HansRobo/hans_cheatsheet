@@ -20,7 +20,7 @@ NIO ET7などに搭載されるイメージグレードの超長距離LiDAR。
 - **解像度**: 0.09° x 0.08° (ROI), 0.18° x 0.24° (Non-ROI)
 - **点群レート**: ~1,500 lines/sec equivalent scan lines
 - **消費電力**: ~30 W
-- **出典**: [Seyond Falcon Product Page](https://www.seyond.com/products/falcon)
+- **出典**: [Seyond Official Website](https://www.seyond.com/)
 
 ## Major Customers
 - **NIO (蔚来)**: ET7, ES7, ET5などNT2.0プラットフォーム以降の全モデルに標準搭載。

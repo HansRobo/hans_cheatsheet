@@ -20,7 +20,7 @@ tags: [LiDAR, Koito, Sensor, Hardware, Automotive, Lighting]
 ## Partnerships
 
 ### Cepton (USA)
-小糸製作所が出資・提携している主要パートナー。2025年に小糸製作所がCeptonを買収完了。
+小糸製作所が出資・提携している主要パートナー。2025年1月7日に買収完了し、間接完全子会社化。
 
 - **技術**: MMT (Micro Motion Technology) - ミラーレスでフリクションフリーな独自方式。
 - **製品**: 車載用近距離・中距離LiDARを提供。

@@ -6,6 +6,7 @@ tags: [LiDAR, Pioneer, PSSP, Sensor, Hardware, Automotive]
 # Pioneer (Pioneer Smart Sensing Innovations)
 
 パイオニアの自動運転関連事業を承継したPioneer Smart Sensing Innovations (PSSP) が、MEMSミラー技術を活用した3D-LiDARを開発・提供している。
+※2025年12月より、親会社パイオニアはCarUX Holding (Tier 1サプライヤー) の傘下となり、新たなモビリティソリューション体制へ移行した。
 
 ## Key Technologies
 

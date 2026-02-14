@@ -11,6 +11,18 @@ RoboSense (Suteng Innovation Technology) は、深圳を拠点とするLiDARセ�
 
 車載グレードのMEMSミラー方式LiDAR。
 
+### RS-LiDAR-M3 (New!)
+CES 2024で発表されたMプラットフォームの次世代超長距離モデル。
+
+- **リリース**: 2024年発表
+- **波長**: 940 nm
+- **最大距離**: 300m @ 10% reflectivity
+- **FOV**: 120° x 25°
+- **解像度**: 0.05° x 0.05° (ROI equivalent to 500 beams)
+- **特徴**: 従来の1550nm製品に対し、940nm技術で同等の性能を低コスト・低消費電力・小型サイズで実現。
+- **用途**: L3+ Autonomous Driving (Highway pilot at 120km/h)
+- **出典**: [RoboSense M3 Press Release](https://www.robosense.ai/en/news-view-100) (CES 2024 Launch)
+
 ### RS-LiDAR-M1
 世界初の車載グレード量産MEMS LiDAR。
 

@@ -12,14 +12,14 @@ Luminarは、1550nm波長レーザーを採用し、長距離検出と目の安�
 ### Iris
 Luminarのフラッグシップモデル。Volvo, Polestar, Mercedes-Benzなどの市販車に採用。
 
-- **リリース**: 2022年頃よりSOP (SAICなど)。Volvo EX90は2024年Q2 SOP開始。
+- **リリース**: 2022年頃よりSOP (SAICなど)。Volvo EX90は2024年5月SOP開始 (6月生産開始)。
 - **方式**: Mechanical Scanning (Dual-axis mirrors with 1550nm fiber laser)
 - **波長**: 1550 nm
-- **最大距離**: 600m (250m @ 10% reflectivity)
+- **最大距離**: 600m (200m @ 10% reflectivity)
 - **FOV**: 120° x 28°
 - **解像度**: Max 300 pts/sq-deg
 - **サイズ**: 薄型設計（ルーフラインへの統合を意識）
-- **出典**: [Luminar Iris Product Page](https://www.luminartech.com/iris)
+- **出典**: [Luminar Technology Page](https://www.luminartech.com/)
 
 ### Halo
 次世代モデル。Irisと比較して大幅な小型化と高性能化を実現。

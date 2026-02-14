@@ -16,6 +16,7 @@ tags: [LiDAR, Toshiba, Sensor, Hardware, Solid-State]
 - **検出器**: SiPM (Silicon Photomultiplier) - 従来のAPDより高感度。
 - **最大距離**: 200m (初期モデル) -> 300m (改良モデル)
     - 200m先でも高い反射率を持たない物体を検知可能。
+    - **商用化目標**: FY2025 (2026年3月期) にソリッドステートモデルの製品化を目指す。
 - **解像度**: 1200 x 80画素 (例) などの高解像度を実現。
 - **特徴**:
     - **小型化**: 投光器と受光器を小型パッケージに統合。
@@ -28,5 +29,5 @@ tags: [LiDAR, Toshiba, Sensor, Hardware, Solid-State]
 - 定置型セキュリティ
 
 ## Sources
-- [Toshiba R&D Center](https://www.global.toshiba/ww/technology/corporate/rdc/platform/device/lidar.html)
+- [Toshiba Corporate R&D Center](https://www.global.toshiba/ww/technology/corporate/rdc.html)
 - [Toshiba SiPM Technology News](https://www.global.toshiba/ww/news/corporate.html)

@@ -15,7 +15,7 @@ tags: [LiDAR, Innoviz, Sensor, Hardware]
 - **リリース**: 2023年Q2 SOP開始 (BMW向けなど)
 - **方式**: MEMS Solid-State
 - **最大距離**: 300m (Detection of 10% reflectivity targets at >220m)
-- **FOV**: 120° x 40° (Configurable)
+- **FOV**: 120° x 43° (Configurable)
 - **解像度**:
     - Maximum: 0.05° x 0.05°
 - **フレームレート**: 10, 15, 20 FPS (Configurable)
@@ -38,7 +38,7 @@ BMW iXなどに搭載された第1世代の車載グレードLiDAR。
 - **出典**: [InnovizOne Product Page](https://innoviz.tech/products/innovizone)
 
 ## Major Customers
-- **Volkswagen Group (CARIAD)**: 40億ドル規模の契約で、将来のVWグループ車種にInnovizTwoを採用予定。
+- **Volkswagen Group (CARIAD)**: 40億ドル規模の契約。ID. Buzz AD (Autonomous Driving) 向けに2025年生産開始予定。
     - 出典: [Innoviz Press Release - VW CARIAD](https://innoviz.tech/press-release/innoviz-technologies-selected-by-major-automotive-group-cariad-se)
 - **BMW Group**: iX (中国市場等の一部構成) や7シリーズなどでイノビズの技術を採用。
     - 出典: [Innoviz Press Release - BMW](https://innoviz.tech/press-release/bmw-group-selects-innoviz-technologies-for-autonomous-driving-production-platforms)

@@ -55,7 +55,9 @@ Livoxは、DJIの関連会社として設立されたLiDARメーカー。独自�
 - **FOV**: 120° x 25°
 - **解像度**: 0.18° x 0.23°
 - **点群レート**: ~452,000 pts/sec (Single)
-- **サイズ**: 108 x 110 x 37 mm (Compact)
+- **サイズ**:
+    - HAP (T1): 105 x 131.6 x 65 mm
+    - HAP (TX): 116 x 116 x 76 mm
 - **出典**: [Livox HAP Product Page](https://www.livoxtech.com/hap)
 
 ## Major Customers
