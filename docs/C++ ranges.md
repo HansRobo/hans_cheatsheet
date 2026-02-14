@@ -9,32 +9,6 @@ weight: -10
 intro: range-v3ライブラリの実践的cookbook
 ---
 
-### セットアップ
-
-**インクルード方法（個別）**
-
-```cpp
-#include <range/v3/view/filter.hpp>
-#include <range/v3/view/transform.hpp>
-#include <range/v3/view/enumerate.hpp>
-#include <range/v3/view/iota.hpp>
-#include <range/v3/algorithm/min.hpp>
-#include <range/v3/algorithm/max.hpp>
-#include <range/v3/algorithm/find_if.hpp>
-#include <range/v3/algorithm/sort.hpp>
-#include <range/v3/range/conversion.hpp>
-#include <range/v3/range/operations.hpp>
-```
-
-**名前空間エイリアス（推奨）**
-
-```cpp
-namespace rv = ranges::views;
-namespace ra = ranges::actions;
-```
-
----
-
 ## データフィルタリング
 
 ### 条件で要素を絞りたい
