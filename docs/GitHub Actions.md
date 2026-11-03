@@ -31,6 +31,10 @@ pull_request
 
 参考：[GitHub Actionsにおけるpathsとpaths-ignoreをベン図で理解する - Qiita](https://qiita.com/nacam403/items/3e2a5df5e88ba20aa76a)
 
+## Docker ビルドのキャッシュ
+
+`docker/build-push-action` の `cache-to: type=gha` が運ぶのは **layer cache だけ**。Dockerfile の `RUN --mount=type=cache` は CI では毎回空になる。詳細は [[docker]]「ビルドのキャッシュは 3 種類」。
+
 ### GitHub Actionsの中でsshを使ったgit cloneがしたい
 
 <!-- cspell:ignore MrSquaare -->

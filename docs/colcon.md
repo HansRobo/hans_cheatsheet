@@ -30,6 +30,16 @@ intro: colcon
 | `--parallel-workers <number>` | 最大の並列数を指定する                  |
 | `--cmake-clean-first`         | クリーンビルドする                    |
 
+### mixin の build type は大文字で
+
+`--cmake-args -DCMAKE_BUILD_TYPE=release`（小文字）は mixin では適用されない。`release` / `compile-commands` の mixin を使う。
+
+```bash
+colcon build --mixin release compile-commands
+```
+
+参考: [colcon mixin と CMAKE_BUILD_TYPE の大文字小文字（Zenn, 2026-08）](https://zenn.dev/habata/articles/c7bb7c767a3d08)
+
 ### colcon-ros-buildfarm
 
 ```bash
